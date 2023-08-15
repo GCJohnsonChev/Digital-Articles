@@ -3,46 +3,50 @@
 <B>This Guide</B><HR>
 With this guide you can enforce information security and diversion so as to prevent any enemies from gathering any information on you and your location. You will also setup diversion social media accounts and pass around the information to enemies so as to trick anyone you feel is a threat. All of the electronics require physical and digital information security hardening. Custom security hardened firmwares and more. LinuxBIOS / CoreBoot / LineageOS and more. It looks like basic stuff but once hardened this stuff will take care of you. It will make it just about impossible for anyone to get information on you, pick pocket you or switch your stuff out / drug you. This combined with other offensive techniques that cannot ever be proved should secure your well being. It depends on your exact situation but obviously you would want certain people to know where you’re at 24/7 while making it impossible for enemies to know where you’re at. You can carry all of this stuff around with you in a neat and tidy backpack for an ultra clean and organized appearance. The actual software makes it very easy to get by with absolutely no money at all. The second part of this guide shows how to pick up on any language and how to memorize 10,000 words in that language in 365 days. I don’t travel anymore and I will never travel again. But I am now starting to write this expert backpacking guide to help out other people.<BR><BR>
 
-<B>Proving Who You Are and Why You Need To</B><HR>
+<B>Proving Who You Are, Proving Your Exact Location and Why You Need To</B><HR>
 
 <B>* Proving Your Location</B><BR>
 You will always need to be able to prove who you are and where you are at long distance to your people 24/7 down to 3 feet by using G.P.S. coordinates within a 3 foot radius and within a 3 foot altitude of the 3 foot radius. I have written certain programming code and digital web applications that enables you to do this without the use of mainstream social media services. This should make it extremely difficult for anyone to modify the G.P.S. coordinates reported unless they get physical access to the server running the web applications. The fifth generation NR and other types of 5g networks are difficult for criminal organization to spoof by using IMSI catchers. It is also difficult for them to G.P.S. jam the 5g cell phones that use the higher 5g frequencies. G.P.S. location jamming is easily defeated by staying out in the open as well as by using the G.P.S. reporting log for an exact foot by foot traceback of the device. The web application keeps a perfect log of G.P.S. movement at 1 - 5 second intervals so if G.P.S. jamming or spoofing ever occurred at any point then the log from the private server could be read and all of the steps and movement could be traced to the point of jamming. Mainstream social media makes it possible for those who are in control of it to change / modify the uploaded images and information. If this becomes a problem then you cannot rely only on these services to store the images / videos / information. You will instead need to use a paid-for private server or setup a web server at home in addition to using public social media services for use as long distance communication and updates when you leave. If you cannot prove who you are to your friends / family / people down to 10 feet long distance you place yourself in extreme risks. Every tourist location is watched by the local criminal groups. They usually gather information on targets for different criminal purposes.<BR><BR>
 
 <B>* Proving Traceback</B><BR>
-By holding your identity documents up to the cameras at the stores and by showing it to the people who work in the stores you can prove a traceback to that location at that exact point in time unless the camera video recordings are deleted at a later time. Usually in store camera video recordings are deleted after 2 weeks because the stores do not have the means to store all of the video data. Never go anywhere without an ID because simply being there and showing your face is not enough for anyone to identify you and trace your origins back to your friends and family in case something happens to you. If you do not have any traceback and no one knows your exact location and identity information it is very easy for anyone to kill someone like that and then disappear them.<BR><BR>
+By holding your identity documents up to the cameras at the stores and by showing it to the people who work in the stores you can prove a traceback to that location at that exact point in time unless the camera video recordings are deleted at a later time. Usually in store camera video recordings are deleted after 2 weeks because the stores do not have the means to store all of the video data. Purchasing something at the store with a debit or credit card alone does not prove your location, but can lead to proving your location. Never go anywhere without an ID because simply being there and showing your face is not enough for anyone to identify you and trace your origins back to your friends and family in case something happens to you. If you do not have any traceback and no one knows your exact location and identity information it is very easy for anyone or a group of enemies to kill someone like that and then disappear them.<BR><BR>
 
 <B>Securing Electronics</B><BR>
-Never use a fingerprint or iris scan on the cell phones to unlock them. Always use a pin code and change it frequently. All cell phones can be unlocked by enemies by taking the hand and holding it to the cell phone device to unlock it if in the even you are knocked out or killed.<BR><BR>
+Never use a fingerprint or iris scan on the cell phones to unlock them. Always use a pin code and change it frequently. All cell phones can be unlocked by enemies by taking the hand and holding it to the cell phone device to unlock it if in the event you are ever knocked out or killed. Once this happens and if a pin code is not set on the device the enemies can then unlock the cell phone with your own finger and take control of you social media accounts and data to trick your family and your friends about your location.<BR><BR>
 
-<B>* Evaluating Travel Areas and Moving Around Them</B><BR><BR>
+<B>* Evaluating Dangerous Travel Areas and Moving Around Them</B><BR><BR>
 
 <B>Expert Self Care and Mobile Hygene Techniques</B><HR>
 
 <B>* Oral and Tooth Care</B><BR>
-Mix all 10 different $1 travel size toothpastes together with hydrogen peroxide and baking soda mix into paste. Thoroughly brush with medium to hard grade manual tooth brush. Use dentek tooth cleaning kit to scrape and clean each individual tooth front back and sides for 8 hours while brushing intermittently with this mix. Teeth will be cleaner, whiter and stronger than much of the world population. 8 hour tooth cleaning session should be done once every 2 – 3 weeks and brush at least 1 times per day with the 10 different $1 toothbrush mixes mixed together.<BR><BR>
+Mix together all 10 different $1 travel size toothpastes together with hydrogen peroxide and baking soda mix into paste. Thoroughly brush with medium to hard grade manual tooth brush. Use dentek tooth cleaning kit to scrape and clean each individual tooth front back and sides for 8 hours while brushing intermittently with this mix. Teeth will be cleaner, whiter and stronger than much of the world population. 8 hour tooth cleaning session should be done once every 2 – 3 weeks and brush at least 1 times per day with the 10 different $1 toothbrush mixes mixed together.<BR><BR>
 
 <B>* Skin Care</B><BR>
-Mix together all 4 different $1 travel size lotions and creams with the specialized and custom made creams and vitamin paste that contain 2,000%+ vitamin A, B, C, D, E, K, collagen, biotin and more. Leave paste on skin for 8 hours while sleeping. The vitamin paste mixed with lotions will get absorbed into the skin for permanent reversal of daily skin damage.<BR><BR>
+Mix together all 4 different $1 travel size lotions and creams with the specialized and custom made creams and vitamin paste that contain 2,000%+ vitamin A, B, C, D, E, K, collagen, biotin, copper and more. Leave this paste on the skin for 8 hours while sleeping. The vitamin paste mixed with lotions will get absorbed into the skin for permanent reversal of daily skin damage.<BR><BR>
 
-<B>* Internal Organ Care</B><BR>
-Boiling & purifying water with very small amounts of bleach and grape seeds
-* https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water
-* https://www.researchgate.net/publication/26853237_Use_of_grape_seed_and_its_natural_pol
-yphenol_extracts_as_a_natural_organic_coagulant_for_removal_of_cationic_dyes
+<B>* Internal Organ Care</B><BR><BR>
+
+Boiling & purifying water with very small amounts of bleach and grape seeds<BR>
+* https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water<BR>
+* https://www.researchgate.net/publication/26853237_Use_of_grape_seed_and_its_natural_polyphenol_extracts_as_a_natural_organic_coagulant_for_removal_of_cationic_dyes<BR><BR>
+
 Bathing / soaking in a hot water bleach bath 1 half cup of bleach per bath kills all bacteria,
-fungus, bugs and virus on skin
-* https://www.healthline.com/health/bleach-bath-for-eczema
+fungus, bugs and virus on skin<BR>
+* https://www.healthline.com/health/bleach-bath-for-eczema<BR><BR>
+
 Eating raw garlic every day for perfect blood flow / destroying blood clots / vein plaque /
-cholesterol as well as for killing all microbial and most viruses.
-https://en.m.wikipedia.org/wiki/Allicin
+cholesterol as well as for killing all microbial and most viruses<BR>
+https://en.m.wikipedia.org/wiki/Allicin<BR><BR>
+
 Hand washing clothing with antibacterial & antimicrobial soap. Soaking clothing in a tub /
-container of water mixed with isopropyl alcohol and antimicrobial solution.
+container of water mixed with isopropyl alcohol and antimicrobial solution.<BR><BR>
+
 Keeping nasal cavity, tonsils and ears clear of all bacteria and hardened mucus 24/7. Quick
-methods of clearing all tonsil stones. Hard grade toothbrushes for tongue brushing.
-Keeping upper respiratory & lungs clear
-Keeping prostate clear
-Keeping endocrine system clear
-Keeping kidneys and digestive organs clear
+methods of clearing all tonsil stones. Hard grade toothbrushes for tongue brushing.<BR>
+Keeping upper respiratory & lungs clear<BR>
+Keeping prostate clear<BR>
+Keeping endocrine system clear<BR>
+Keeping kidneys and digestive organs clear<BR>
 * blend and then boil / homogenize 10 pomegranates, 20 carrots with ? Ounces of flaxseed
 oil, ? grams dietary fiber and 2 gallons of water. Drink cold. This makes you poop everything
 out. To clear kidneys drink pure Pomegranate juice mixed with pure grape juice, pure carrot
@@ -50,7 +54,8 @@ juice, pure orange juice, pure blackberry juice, pure apple juice, pure white gr
 grape juice, pure raspberry juice, pure strawberry juice, pure blueberry juice, pure red and black
 currant juice, pure cranberry juice, pure orange juice. Drink 3/4 of a gallon of this mix per day for
 4 weeks. Drink 1 gallon of water every other day during the 4 weeks. Drink every day if it can be
-afforded / accessed.
+afforded / accessed.<BR><BR>
+
 Skin lotion mixes for super hydration of skin
 * Mix travel size Aveda, Jurgens, Gold Bond.. and pure Vitamin E oil together. Apply full body
 Aerobics and military exercises<BR><BR>
@@ -64,6 +69,14 @@ I have personally selected, assembled, customized and tested this gear for use o
 
 <B>Processing The Boots</B><BR>
 Treating and hardening the Dr. Martens Nylon Hardened Edition boots with extra stitch reinforcements and fabric hardening with sole hardening material makes a stronger boot than any U.S. Military issue boot and just about every foreign military issued boot for use in dry and hot conditions today. You can walk for up to 18 miles per day over a 3 month period without the need to replace the outer sole goup or the inserts. No hurt feet as long as you use the right socks and memory foam inserts. The boots can be made to last for up to 1 year or longer with the right sole treatment.<BR><BR>
+
+<B>Processing The Clothing</B><BR><BR>
+
+<B>Processing The Electronics</B><BR><BR>
+
+<B>Processing The Jewelry</B><BR><BR>
+
+<B>Processing The Backpack</B><BR><BR>
 
 <B>Backpacking Gear List</B><BR>
 <OBJECT DATA="Gear.txt" WIDTH="90%" HEIGHT="200"></OBJECT><BR><BR>
