@@ -102,6 +102,8 @@ boots/c/06015600
 [+] Sandals
 [-] Olukai Malanai Sandals
 * https://www.Olukai.com/products/ohana-womens-beach-sandals-petal-pink-black
+[-] QuickSilver Sandals
+* https://www.quiksilver.com/mens-flip-flops-sale/
 [*] Shoes / Boots Accessories
 [+] Memory Foam Inserts
 [-] AirPlus Memory Foam Inserts
