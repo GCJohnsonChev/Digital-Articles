@@ -38,9 +38,14 @@ https://www.Rothco.com/category/tactical-shemagh-military-scarves
 [*] WristWear
 [+] Tactical Travel / Expedition / Adventuring Watches
 [-] Timex Expedition
-* https://www.Timex.com/browse/men/shop-by-collection/expedition/
+* https://www.Timex.com/pages/search-results?q=expedition
 [+] Smart Watches
-[-]
+[-] Google Pixel Smart Watch
+* https://Store.Google.com/product/google_pixel_watch?hl=en-US
+[-] Samsung Galaxy Smart Watch
+* https://www.samsung.com/us/watches/
+[-] Lenovo Smart Watch
+* https://www.amazon.com/Lenovo-S2-ProSmart-Sports-Black/dp/B091STXNN6
 [+] Watch Bands
 [-] NATO Style Nylon Watch Band
 * https://www.Walmart.com/ip/Watch-Band-Nylon-NATO-Strap-Ballistic-Nylon-with-Stainless-
@@ -82,7 +87,7 @@ number/men/jeans/501/c/levi_jeans_by_fit_number_men_jeans_501
 [+] Performance Boot Socks
 [-] USOA Anti-Microbial Boot Socks
 * https://www.USPatriotTactical.com/usoa-antimicrobial-socks-3-pairs/usoa_USOA.html
-[-]Merino Wool Boot Socks
+[-] Merino Wool Boot Socks
 [-] Cotton Boot Socks
 [*] Shoes / Boots / Sandals
 [+] Boots
