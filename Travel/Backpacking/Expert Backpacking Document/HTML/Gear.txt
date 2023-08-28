@@ -324,7 +324,7 @@ Kit/384519132
 * https://www.Serve.com/
 [+] MasterCard
 [-] MasterCard Brinks Armored
-* https://www.cardrates.com/review/brinks-money-prepaid-mastercard/
+*https://www.BrinksArmored.com/
 * https://www.Travelex.com/travel-money-card
 [+] Non-Backed
 [-] Travelex
@@ -336,6 +336,8 @@ Kit/384519132
 * https://www.Crypto.org
 [-] VISA BlueBird
 * https://www.BlueBird.com/
+[-] VISA Chime
+* https://www.Chime.com/debit-card/
 [*] Waterproof Plastic Pouches For Kits
 [+] Large Plastic Pouch For Plastic Pouch Kits
 [+] Hygiene Kit Plastic Pouch
