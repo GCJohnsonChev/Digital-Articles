@@ -1,154 +1,353 @@
-<CENTER><B>&#x16B1; Expert Backpacking and Travel Guide</B></CENTER><BR><BR>
-
-<B>This Guide</B><HR>
-With this guide you can enforce information security and diversion so as to prevent any enemies from gathering any information on you and your location. You will also setup diversion social media accounts and pass around the information to enemies so as to trick anyone you feel is a threat. All of the electronics and the materials require physical and digital information security hardening. Custom security hardened firmwares and more. LinuxBIOS / CoreBoot / LineageOS and more. It looks like basic stuff but once hardened this stuff will take care of you. It will make it just about impossible for anyone to get information on you, pick pocket you or switch your stuff out / drug you. This combined with other offensive techniques that cannot ever be proved should secure your well-being. It depends on your exact situation but obviously you would want certain people to know where you’re at 24/7 while making it impossible for enemies to know where you’re at. You can carry all of this stuff around with you in a neat and tidy backpack for an ultra-clean and organized appearance. The second part of this guide shows how to pick up on any language and how to memorize 10,000 words in that language in 365 days. I don’t travel anymore and I will never travel again. But I am now starting to write this expert backpacking guide to help out other travelers.<BR><BR>
-
-With this tried and tested travel system with all of the travel gear approximately $1,200 U.S.D. or more income every 4 weeks is sufficient to travel anywhere and change up the location every 2 weeks or less by living in AIRBnBs.<BR><BR>
-
-<B>Proving Who You Are, Proving Your Exact Location and Why You Need To</B><HR>
-
-<B>* Proving Your Location</B><BR>
-You will always need to be able to prove who you are and where you are at long distance to your people 24/7 down to 3 feet by using G.P.S. coordinates within a 3 foot radius and within a 3 foot altitude of the 3 foot radius of your exact location. I have written certain digital programming code and digital web applications that enables you to do this without the use of mainstream social media services. This should make it extremely difficult for anyone to modify the G.P.S. coordinates reported unless they get physical access to the web server running the web application that receieve and store the G.P.S coordinate logs.<BR><BR>
-
-As of 2023 the 5th generation NR type and other types of 5g cellular networks are difficult for criminal organization to spoof by using IMSI catchers because of the frequency pitch. It is also difficult for them to G.P.S. jam and G.P.S. location spoof the 5g cell phones that use the higher 5g frequencies. G.P.S. location jamming is easily defeated by staying out in the open where everyone can see you and by moving to an area where your electronic devices cannot be spoofed or jammed as well as by using the G.P.S. reporting log for an exact foot by foot traceback of the device. The web application keeps a perfect log of G.P.S. coordinates by movement at 1 - 5 second interval updates in a 24 hour log separated by Day, Month and Year so if G.P.S. jamming or spoofing ever occurred at any point in time in any location then the log from the private server could be read and all of the steps and movement could be traced to the point of jamming.<BR><BR>
-
-Mainstream social media makes it possible for those who are in control of it to change / modify the uploaded images and information. If this becomes a problem then you cannot rely only on these services to store the images / videos / information. You will instead need to use a paid-for private server or setup a web server at home in addition to using public social media services for use as long distance communication and updates when you leave. If you cannot prove who you are to your friends / family / people down to 3 - 10 feet in radius and 3 feet in altitude at long distance from their locations then you place yourself in extreme risks.<BR><BR>
-
-Every tourist location is watched by the local criminal groups. They usually gather information on travelers for different criminal purposes.<BR><BR>
-
-<B>* Establishing Legal Traceback and Why You Need To</B><BR>
-By holding your identity documents up to the cameras at the stores and by showing the identity documents to the people who work in the stores along with the action of buying something
-from the store with a debit or credit card that is in your name and is traceable to your address you can establish a legal traceback of your identity information to that specific location at that exact point in time
-unless the video camera recordings are deleted at a later time either deliberately or because of the stores' inability to store the video longer than a certain amount of time.
-Usually the in store video camera recordings are deleted after 2 weeks unless there is a seen and reported criminal incident because the store is not capable of storing the video recordings. In store video camera recordings are usually only saved if there is a seen and reported crime in the area.<BR><BR>
-
-Purcashing something at the store with a credit or debit card alone does not prove that it is you making the purchase therefore it does not prove your location. By simply running the card at the store you can establish a traceback to that location at that exact
-point in time.<BR><BR>
-
-Never go anywhere without an acceptable form of identification because by simply being there and showing your face to people in the area without an identification document is not enough for anyone in that area to identify you and trace
-your origins back to your friends and family if in the event something happens to you after that point in time. If you do not have any traceback to your location and no one knows your exact location
-and identity information it is very easy for anyone or any group of people to kill you and then disappear you without a trace. If you are big it won't matter. If you are trained in hand to hand combat it won't matter. It does not matter how long you have physically
-trained for hand to hand offense and defense. If you are outnumbered and you can't get away you are going to die. You have up to 5 minutes to prove your location or you risk death up to 85% of the time. Assuming there is no one else that looks like you most criminal groups will not risk killing and disappearing someone if there is legal, documented traceback to your location that proves beforehand that they are planning to kill you or do something to you and they are already identified.<BR><BR>
-
-Most people do not remember names and faces, they remember the information on the identification documents especially if the identification document such as your ID Card is shown to the recording video cameras in the stores and in the area. Investigators only go off of the documentation at hand and the world of investigations, law enforcement and the entire judicial system is extremely corrupt so if there is trailing documentation that leads everyone including friends and family right to your current location you do not need to worry about being disappeared because they will not be able to fabricate documentation or alter documentation to trick a future investigation if there were one. This process it not automatic you must intentionally and consciously do this several times a day every day that you travel.<BR><BR>
-
-High traffic tourist areas sometimes attract up to 25 million people a year or more and places like these make it almost impossible for investigators and law enforcement to prove any crimes in the area if they happen. Always document your travels by taking pictures of all of the physical and digital tickets that you have purchased and store them
-on your mobile electronic devices. Only show the tickets to friends and family on social media after the physical travel from point to point is complete just in case the schedules or routes have changed at any point in the entire travel itenerary.<BR><BR>
-
-<B>* Making Your Presence Known In The Area</B><BR>
-You can make your presence known in the area that you are in by talking to the people who work in the stores and in the businesses in that area. Show your ID Card to people who work in the stores and in the businesses in the area that you are in and show your ID Card to the cameras in the stores and in the businesses and let them know what your name is, where you are from and where you are planning to go to. Try to relate to them and
-make conversations with them.<BR><BR>
-
-<B>* Securing The Electronics</B><BR>
-Never use a fingerprint, iris scan or face scan on any of the electronics to unlock them. Always use a pin code and change that pin code frequently without anyone seeing the pin code change. All
-cell phones and laptops can be unlocked by enemies if they take your hand, face or eye and hold it to the cell phone device to unlock it if in the event they are around you while you are sleeping or if in the event you are ever knocked out or killed.<BR><BR>
-
-It is also possible to use clear tape to copy a fingerprint and then use it on the cell phone fingerprint sensor to unlock it. Once this happens and if a pin code is not set on the device the enemy
-or enemy group can then unlock the cell phone with your own finger, face or iris and then take physical control of the connected accounts on the device such as social media accounts and their data in order
-to trick your friends and family about your location after having disposed of your body. Be sure to set a pin code lock on the SIM card itself and flash your device with official LineageOS or a customized Linux Operating System for mobile use. If the enemy ever gets your fingerprints they could completely clone your fingerprints in a sillicone apparatus and use it in any biometric system later on.<BR><BR>
-
-If the SIM card itself is set with a pin code this will make it more difficult to remove that SIM card and clone it. SIM cloning involves removing the SIM card and then duplicating it so that a laptop with a SIM card slot can intercept the messages and phone calls in real time. If in the event you suspect that or the device software scanners shows that your
-SIM card has been cloned you must change the SIM card by buying a new SIM card from the store and then activate it in the cell phone service provider website portal. Once the cell phone device has been setup correctly it cannot be physically cloned or remotely hacked unless the perpetrater manages to get physical access to the device to install a RAT or Remote Access Trojan.<BR><BR>
-
-Remote Access Trojans are usually malicious software that allows the malicious hacker to remotely watch your cell phone and or laptop in real time as well as log your key strokes, send commands to the electronic devices and remotely operate your electronic device. Many files on the Internet are injected with undetectable RATs that cannot be detected by Malware scanners even by Linux and FreeBSD OS scanners. Refer to the electronics security hardening guide for
-the electronics to secure the electronics.<BR><BR>
-
-<B>* Instant Information Gathering On Targets</B><BR>
-The combined system created by my team can instantly gather real time information on targets and spread the live videos by Smart Glasses around to all ~1,200 members on the server<BR><BR>
-
-<B>* Proving Traceback</B><BR><BR>
-
-<B>* Dealing With PickPockets, Room Thieves and Switcheroos</B><BR>
-<B>PickPockets</B> are small gangs that usually work for the larger gangs in the area. The shown travel gear is nice and tight. By wearing tight clothing it makes it very difficult for PickPockets
-to steal anything from you. Usually PickPockets will use a razor blade to cut the backpack or the pockets to steal a wallet or anything valuable. By staying away from crowded areas while traveling
-with this gear you will reduce your chances of being PickPocketed up to 99% of the time<BR><BR>
-
-<B>Room Thieves</B> are usually the people that work in the hotels, motels and other places. Room Thieves including AirBnB operators work in these places and
-coordinate with the other gangs in the area to steal valuables from customers. By only taking your backpack with you when traveling and by living out of it rigorously while traveling and
-by also taking it with you when you leave the rooms you stay in you can reduce the chances of your possessions being stolen up to 100% of the time. If your backpack is securely worn it cannot be taken off of your back by anyone walking, running or biking by you.<BR><BR>
-
-<B>Switcheroos</B> are Room Thieves and others that will switch your authentic belongings out with fake products or damaged
-products that are the exact same make and model. An example of a Switcheroo is someone that is in a gang and owns
-a damaged or fake pair of RayBan glasses that are the exact same make and model of the new and non-damaged RayBan glasses
-that you own and have with you. They would usually switch out the authentic item with the fake version while you are not looking so they can get the real thing or get the newer
-one for free. Think of a gang that owns a Ranchero car of a certain make and model and they decide to go and scope out the same make and model vehicle in town so they can get a brand new carburetor out of it for free by popping the hood and then by taking
-the carburetor part and switching it out with the damaged carburetor part in their Ranchero. You can always beat the Switcheroos by owning extremely customized gear. If the travel gear is original, custom made and or extremely customized it cannot be duplicated
-because it cannot be bought anywhere.. if it cannot be bought anywhere else then it cannot be switched out with yours.<BR><BR>
-
-<B>* Evaluating Dangerous Travel Areas and Traveling Around Them Through Safe Ones</B><BR><BR>
-
-<B>Expert Self Care and Mobile Hygiene Techniques</B><HR>
-
-<B>* Oral and Tooth Care</B><BR>
-Mix together all 10 different $1 travel size toothpastes with hydrogen peroxide and baking soda mixed into a paste. Thoroughly brush teeth with medium to hard grade manual tooth brush. Use DekTek &copy; &trade; tooth cleaning kit or a different tooth cleaning kit to scrape and clean each individual tooth front back and sides for 1 hour each session throughout the day for a total time of 6 - 8 hours while brushing intermittently with this mix. Manual tooth cleaning should be done every 2 - 3 weeks. Teeth will be cleaner, whiter and stronger than much of the population. Tooth cleaning sessions should be done once every 2 – 3 weeks and brush at least 1 times per day with the 10 different $1 toothbrush mixes mixed together.<BR><BR>
-
-<B>* Skin Care</B><BR>
-Mix together all 4 different $1 travel size lotions and creams with the specialized and custom made creams and vitamin paste that contain 2,000%+ vitamin A, B, C, D, E, K, collagen, biotin, copper and more. Leave this paste on the skin for 8 hours while sleeping. The vitamin paste mixed with lotions will get absorbed into the skin for permanent reversal of daily skin damage.<BR><BR>
-
-<B>* Internal Organ Care</B><BR><BR>
-
-Contrary to popular belief especially with unexperienced travelers it is actually extremely difficult if not impossible to get sick or contract any diseases while traveling. This is because most people
-that are traveling have a lot of money at that point in time and they are not sick and they do not have any diseases because if they were they would not be able to travel.<BR><BR>
-
-Boiling & purifying water with very small amounts of bleach and grape seeds<BR>
-* https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water<BR>
-* https://www.researchgate.net/publication/26853237_Use_of_grape_seed_and_its_natural_polyphenol_extracts_as_a_natural_organic_coagulant_for_removal_of_cationic_dyes<BR><BR>
-
-Bathing / soaking in a hot water bleach bath 1 half cup of bleach per bath kills all bacteria,
-fungus, bugs and virus on skin<BR>
-* https://www.healthline.com/health/bleach-bath-for-eczema<BR><BR>
-
-Eating raw garlic every day for perfect blood flow / destroying blood clots / vein plaque /
-cholesterol as well as for killing all microbial and most viruses<BR>
-https://en.m.wikipedia.org/wiki/Allicin<BR><BR>
-
-Hand washing clothing with antibacterial & antimicrobial soap. Soaking clothing in a tub /
-container of water mixed with isopropyl alcohol and antimicrobial solution.<BR><BR>
-
-Keeping nasal cavity, tonsils and ears clear of all bacteria and hardened mucus 24/7. Quick
-methods of clearing all tonsil stones. Hard grade toothbrushes for tongue brushing.<BR>
-* https://www.youtube.com/shorts/16fZPIHkEjA<BR>
-* https://en.wikipedia.org/wiki/Tonsil_stones<BR><BR>
-
-Keeping upper respiratory & lungs clear<BR>
-Keeping prostate clear<BR>
-Keeping the enteric and endocrine system clear<BR>
-Keeping kidneys and digestive organs clear<BR>
-* blend and then boil / homogenize 10 pomegranates, 20 carrots with ? Ounces of flaxseed
-oil, ? grams dietary fiber and 2 gallons of water. Drink cold. This makes you poop everything
-out. To clear kidneys drink pure Pomegranate juice mixed with pure grape juice, pure carrot
-juice, pure orange juice, pure blackberry juice, pure apple juice, pure white grape juice, pure red
-grape juice, pure raspberry juice, pure strawberry juice, pure blueberry juice, pure red and black
-currant juice, pure cranberry juice, pure orange juice. Drink 3/4 of a gallon of this mix per day for
-4 weeks. Drink 1 gallon of water every other day during the 4 weeks. Drink every day if it can be
-afforded / accessed.<BR><BR>
-
-Skin lotion mixes for super hydration of skin
-* Mix travel size Aveda, Jurgens, Gold Bond.. and pure Vitamin E oil together. Apply full body
-Aerobics and military exercises<BR><BR>
-
-<B>Longlasting, Lightweight, Durable, Discrete, MilSpec and More Backpacking Gear</B><HR>
-
-* Budget: ~$2,000 U.S.D.<BR><BR>
-
-<B>Field Tested Gear</B><BR>
-I have personally selected, assembled, customized and tested this gear for use on my travels. All of this gear is very long lasting and is physical and digitally hardened. Any backpacker with this specific gear can expect to stay clean, styled, physically and digitally secure as well as have the capability to walk 10 - 20 miles per day without stopping. No hurt feet, legs or back. You can also bug out long term with this specific gear. This gear is also good as a GoBag and as a Daily Bag.<BR><BR>
-
-<B>Processing The Foot Wear</B><BR><BR>
-
-* Boots<BR>
-Treating and hardening the Dr. Martens Nylon Hardened Edition boots with extra stitch reinforcements and fabric hardening with sole hardening material makes a stronger boot than any U.S. Military issue boot and just about every foreign military issued boot for use in dry and hot conditions today. You can walk for up to 18 miles per day over a 3 month period without the need to replace the outer sole goup or the inserts. No hurt feet as long as you use the right socks and memory foam inserts. The boots can be made to last for up to 1 year or longer with the right sole treatment.<BR><BR>
-
-* Sandals<BR>
-Treating and hardening the sandals requires remaking the entire upper loop fabric. By hand making the fabric and then by pressing metal billets on the undersole of the sandal this will make it extremely difficult for the sandal to fall apart. The QuickSilver brand sandal has good quality rubber, but the fabric loop breaks unless the fabric is remade by hand and looped through the undersole of the sandal and then pressed with a metal billet. The sandals can be made to last for up to 6 months at walking at up to 5 miles per day.
-
-<B>Processing The Clothing</B><BR><BR>
-
-<B>Processing The Electronics</B><BR><BR>
-
-<B>Processing The Jewelry</B><BR><BR>
-
-<B>Processing The Backpack</B><BR><BR>
-
-<B>Backpacking Gear List</B><BR>
-<OBJECT DATA="Gear.txt" WIDTH="90%" HEIGHT="200"></OBJECT><BR><BR>
+[+] Clothing / Jewelry / Sandals - Shoes - Boots / Accessories / Backpacks / Electronics
+[*] HeadWear
+[+] Hats
+[+] Bandanas
+[*] EyeWear
+[+] Eyeglasses / Sunglasses
+[-] Randolph
+* https://www.RandolphUSA.com/pages/shop-by-frame
+[-] Ray-Ban
+* https://www.Ray-Ban.com/usa/sunglasses/view-all
+[-] Vuarnet
+* https://us.Vuarnet.com/
+[-] LaCoste
+* https://www.LaCoste.com/us/lacoste/men/accessories/sunglasses/
+[+] Smart Glasses
+[-] Ray-Ban Wayfarer Smart Glasses
+*
+[*] Jewelry
+[+] Wiring
+[-] 20 Troy Ounces of .925 Sterling Silver Wrappable Wire ( For Emergencies )
+[+] Earrings
+[+] Facial Jewelry
+[+] Necklaces
+[+] Pendants & Medals
+[+] Rings
+[+] Lapels & Brooches
+[+] CrestWear
+[*] NeckWear
+[+] Tactical Shemagh / Kefflyeh
+[-] Rothco Tactical Shemagh
+https://www.Rothco.com/category/tactical-shemagh-military-scarves
+[+] Face & Neck Gaiters
+[-] GuardWell
+* https://www.GetGuardWell.com/IDVCFGFP/6.0000/Index.dtm?otsid=23965
+[+] Scarfs
+[-] BurBerry
+* https://us.BurBerry.com/craft-series-cashmere-scarves/
+[*] WristWear
+[+] Tactical Travel / Expedition / Adventuring Watches
+[-] Timex Expedition
+* https://www.Timex.com/pages/search-results?q=expedition
+[+] Smart Watches
+[-] Google Pixel Smart Watch
+* https://Store.Google.com/product/google_pixel_watch?hl=en-US
+[-] Samsung Galaxy Smart Watch
+* https://www.samsung.com/us/watches/
+[-] Lenovo Smart Watch
+* https://www.amazon.com/Lenovo-S2-ProSmart-Sports-Black/dp/B091STXNN6
+[+] Watch Bands
+[-] NATO Style Nylon Watch Band
+* https://www.Walmart.com/ip/Watch-Band-Nylon-NATO-Strap-Ballistic-Nylon-with-Stainless-
+Steel-Buckle-for-Watches-Fitness-Devices-Black-Gray-24mm/261901332
+[*] HandWear
+[+] Gloves
+[-] UnderArmour Storm Run Gloves
+* https://www.UnderArmour.com/en-us/p/gloves/mens_ua_storm_run_gloves/1345385.html
+[*] Clothing
+[*] Jackets
+[+] Performance Jackets
+[-] UnderArmour Rain Jacket
+* https://www.UnderArmour.com/en-us/
+[*] Ponchos
+[+] Handmade In Mexico Poncho
+[-] Handmade Hooded Poncho Serape
+https://www.Ecualama.com/products/lightweight-baby-alpaca-wool-hooded-poncho-pullover-
+unisex-boho-ethnic-festival?variant=35599043166368
+[*] Shirts
+[+] Performance Shirts
+[-] UnderArmour Performance Polyester Shirt
+* https://www.UnderArmour.com/en-us/
+[*] Jeans
+[+] Performance Jeans
+[-] Levi Strauss 505
+* https://www.Levi.com/US/en_US/jeans-by-fit-
+number/men/jeans/505/c/levi_jeans_by_fit_number_men_jeans_505
+[-] Levi Strauss 501
+* https://www.Levi.com/US/en_US/jeans-by-fit-
+number/men/jeans/501/c/levi_jeans_by_fit_number_men_jeans_501
+[*] Thermals / Undergarments
+[+] Performance Thermals
+[-] UnderArmour Polyester Heavyweight Thermals
+* https://www.UnderArmour.com/en-us/
+[-] Cotton Thermals
+[-] Icebreaker Merino Wool Thermals
+* https://www.IceBreaker.com
+[*] Socks
+[+] Performance Boot Socks
+[-] USOA Anti-Microbial Boot Socks
+* https://www.USPatriotTactical.com/usoa-antimicrobial-socks-3-pairs/usoa_USOA.html
+[-] Merino Wool Boot Socks
+[-] Cotton Boot Socks
+[*] Shoes / Boots / Sandals
+[+] Boots
+[-] Dr. Martens
+* https://www.DrMartens.com/us/en/p/16607001
+* https://www.DrMartens.com/us/en/originals-boots-and-shoes/boots/1460-lace-up-
+boots/c/06015600
+[-] GripFast
+* https://www.GripFastBoots.com/products/gripfast-10-eyelet-steel-toe-boot-in-black
+[-] SoloVair
+* https://us.nps-Solovair.com/collections/all/products/s11-981-bk-g?variant=36508662235208
+[+] Sandals
+[-] Olukai Malanai Sandals
+* https://www.Olukai.com/products/ohana-womens-beach-sandals-petal-pink-black
+[-] QuickSilver Sandals
+* https://www.quiksilver.com/mens-flip-flops-sale/
+[*] Shoes / Boots Accessories
+[+] Memory Foam Inserts
+[-] AirPlus Memory Foam Inserts
+* https://www.Walmart.com/ip/Memory-Comfort-Insole/185270099
+[-] SofSole Memory Foam Inserts
+* https://SofSole.Implus.com/products/comfort-insoles/memory-plus-foam-insoles
+[+] Shoe / Boot Laces
+[-] Paracord 550 Metal Tips
+* https://www.Amazon.com/550-Paracord-Boot-Laces-Milspec/dp/B07C33RGHW
+[+] Boot / Shoe Outsole Rubber Cement
+[-] Elmer's Rubber Cement
+* https://www.Target.com/p/elmer-39-s-4oz-rubber-cement/-/A-17088978
+* https://www.Homedepot.com/p/DAP-Weldwood-3-fl-oz-Original-Contact-Cement-
+00107/100195615
+[-] ShoeGoo
+* https://www.Target.com/p/eclectic-1oz-shoe-goo-glue/-/A-15024681#lnk=sametab
+[-] Barge Rubber Cement
+* https://www.Walmart.com/ip/BARGE-All-Purpose-CEMENT-Rubber-Leather-Shoe-Waterproof-
+Glue-1-Qt-o-946-L/125919734
+[*] Waist Belts / Suspenders
+[+] Waist Belts
+[+] Suspenders
+[-] Rothco Combat X Suspenders
+* https://www.Rothco.com/product/rothco-adjustable-elastic-x-back-pant-suspenders/4196
+[*] Backpacks / Go Bags
+[+] Military Issue Molle Backpack / FlatPack
+[+] Military Specification Backpack / FlatPack With Molle Webbing
+https://www.Amazon.com/REEBOW-GEAR-Military-Tactical-Rucksacks/dp/B01KJMK4W2/
+[-] Ozark Trail Rainproof 40 Litre Backpack
+[-] MIER Heavy Duty Duffle Backpack
+[*] Backpack Attachments
+[-] ID Card Holder
+* https://www.Walmart.com/ip/Vertical-Clear-Plastic-ID-Badge-Card-Holder-Pocket-Pouch-
+4pcs/50256776
+[+] Carabiners
+[-] NiteIze 75 LBS
+* https://www.NiteIze.com/collection/New-Products.asp
+[*] Survival Accessories
+[+] Rain Jackets
+[-] Foldup Rain Poncho
+* https://www.Walmart.com/ip/Ozark-Trail-Lightweight-Rain-Poncho-Blue/35735203
+[+] Survival Sticks
+[-] FireStarter
+* https://www.Walmart.com/ip/3-Pack-Emergency-Flint-Fire-Starter-Striker-Lighter-Camping-
+Survival-Outdoor-New/139067883
+[+] Metal Multi-Card Tools
+[-] Voodoo Tactical Metal Multi Card Tool
+* https://www.Amazon.com/VooDoo-Tactical-02-9960055000-Multi-Purpose-
+Survival/dp/B004XN8UHA
+[*] Flashlights / UV Lights
+[+] Flashlight
+[-] Hardned Aluminium 700 Lumens T6 LED Flashlight
+* https://www.eBay.com
+[+] UV Pen Light
+[-] GearLight Ultra-Violet Pen Light
+* https://www.eBay.com/
+[*] Tactical Knives
+[-] UZI Assisted Open Tactical Folding Knife
+* https://www.Uzi.com/knives
+[-] ColdSteel SRK
+* https://www.ColdSteel.com/srk-sk-5/
+[*] Journals & Writing
+[+] Journals
+[-] Leather Button Journal
+[+] Writing Utensils
+[-] Zebra Stainless Steel Fine Pens
+* https://www.ZebraPen.com/product-category/brand/steel/
+[*] Wallets
+[+] Passport Wallets
+[-] SwissGear Passport Wallet
+* https://www.SwissGear.com/swissgear-rfid-protection-travel-wallet
+[+] Wallets
+[-] TrayVax Armored Summit Wallet
+* https://www.TrayVax.com/collections/wallets-metal/products/armored-summit
+[*] Fire
+[-] Zippo Lighter
+* https://www.Zippo.com/products/classic-matte-black
+[-] Zippo Flints
+* https://www.Zippo.com/products/flints
+[-] Zippo Wick
+* https://www.Zippo.com/products/wick
+[-] Zippo Fluid
+* https://www.Zippo.com/collections/fuel-and-supplies/products/4-fl-oz-lighter-fuel
+[*] Tents
+[-] Ozark Trail 1 Person Backpacking Tent
+* https://www.Walmart.com/ip/Ozark-Trail-1-Person-Backpacking-Tent-with-Vestibule-for-Gear-
+Storage/519270004
+[*] Sleeping Bags
+[-] Coleman 30 Degrees Farenheit Sleepingbag
+* https://www.Coleman.com/
+[*] Thermus / Flask
+[-] Stanley Flask
+* https://www.Stanley1913.com/products/classic-easy-fill-wide-mouth-flask-8-oz
+[*] Electronics
+[+] Laptops / NoteBooks
+[-] Lenovo T440p With CoreBoot & Gentoo Linux / Arch Linux
+* https://www.eBay.com/itm/Lenovo-ThinkPad-14-T440p-Core-i5-Laptop-Windows-10-PRO-
+8GB-RAM-500GB-
+HD/274743677636?epid=17030823529&hash=item3ff7ffd2c4:g:sMUAAOSwmkRgZ0NJ
+[-] Aluminium Google Chromebook With CoreBoot & Gentoo Linux / Arch Linux
+* https://www.Amazon.com/Google-Pixelbook-Chromebook-64GB-
+Black/dp/B07YMGQYP6/ref=sr_1_3?dchild=1&keywords=Google[+]Pixelbook&qid=161818242
+4&s=electronics&sr=1-3
+[+] USB Sticks / MicroSDXC Cards / MicroSDHC Cards
+[-] SanDisk Metallic 256GB USB Stick
+* https://www.Newegg.com/sandisk-model-sdcz73-256g-g46-
+256gb/p/N82E16820173392?Description=SanDisk USB Stick&cm_re=SanDisk_USB Stick-_-
+20-173-392-_-Product
+[-] SanDisk 128GB MicroSDXC Card
+* https://www.Newegg.com/sandisk-128gb-
+microsdxc/p/N82E16820173361?Description=SanDisk MicROSD&cm_re=SanDisk_MicROSD-
+_-20-173-361-_-Product
+[+] Portable Video Game Controllers
+[-] Android / iPhone Size Game Controller
+* https://www.eBay.com/itm/Wireless-Bluetooth-Mobile-Controller-Gamepad-for-IOS-Android-
+Tablet-Smart-Phone/303456832551?hash=item46a76fcc27:g:SwEAAOSwey5gNL-Q
+[+] Laser Keyboard Modules
+[-] AGS Laser Keyboard
+*
+[+] Internationally Unlocked Mobile Phones / Satellite Phones
+[-] Iridium Satellite Phone
+* https://www.eBay.com/itm/133729024820?hash=item1f22defb34:g:gawAAOSwtyVgeE2F
+[-] Internationally Unlocked PinePhone64 Linux Phone
+* https://www.Pine64.com/product-category/pinephone/?v=0446c16e2e66
+[-] Internationally Unlocked Google Pixel 3XL
+* https://www.Amazon.com/Pixel-Phone-XL-Certified-
+Refurbished/dp/B07HKPMFZ5/ref=sr_1_2?dchild=1&keywords=pixel[+]3XL&qid=1618182647&
+sr=8-2
+* https://www.Amazon.com/OtterBox-Defender-Holster-Google-
+Pixel/dp/B08BT53W7S/ref=sr_1_3?dchild=1&keywords=otterbox[+]google[+]pixel[+]3xl[+]case&
+qid=1618182840&sr=8-3
+[-] Internationally Unlocked BlackBerry
+* https://www.Amazon.com/BlackBerry-KEYone-64GB-BB100-7-
+International/dp/B073ZLLVQ9/ref=sr_1_8?dchild=1&keywords=blackberry[+]key[+]1&qid=16181
+80137&sr=8-8
+[+] Mobile Phone Cases
+[-] Waterproofed, Dustproofed, Shockproofed, Fireproofed Aluminium Case With Gorilla Glass
+Version 3, Non-Reversible Titanium Screws
+[-] OtterBox Defender Case With Belt Clip
+[+] Mobile Phone Privacy Screen Protectors
+[-] ScreenShield, PrivateScreen
+[+] Satellite Phone Service Plans
+[-] Iridium / InmarSat / TerreStar / Thuraya
+* https://www.BlueCosmo.com/iridium-10-150-monthly-service-plans.html
+[+] International Mobile Phone Service Plans
+[-] Google-Fi
+* https://Fi.Google.com/about/
+[+] U.S. Based Mobile Phone Service Plans
+[-] AT&T
+* https://www.ATT.com/prepaid/
+[-] T-Mobile
+* https://Prepaid.T-Mobile.com/home
+[-] Simple Mobile
+* https://www.SimpleMobile.com
+[+] Virtual Private Network Services
+[-] ProtonVPN
+* https://www.ProtonVPN.com
+[-] NordVPN
+* https://www.NordVPN.com
+[+] Portable Power Banks
+[-] 20,000 Milliampere Hour / Solar Panel Chargeable Power Banks
+* https://www.Walmart.com/ip/onn-Dual-Port-Portable-Battery-6x-Charge-20000-mAh-
+Black/581872119
+* https://www.lenovo.com/us/en/p/accessories-and-software/chargers-and-batteries/power-banks/40allg2www
+* https://www.samsung.com/us/mobile/mobile-accessories/phones/20a-battery-pack-dark-gray-eb-p5300xjegus/
+* https://US.Anker.com/products/a1650
+[+] EarBuds
+[-] SkullCandy INK'D 2
+* https://www.SkullCandy.com/shop/earbuds/inkd-2
+[-] Apple EarBuds 3.5MM
+* https://www.Apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug
+[+] Power Adapters & Cables
+[-] BlackWeb Braided US / UK / European / Power Adapter
+* https://www.Walmart.com/ip/Blackweb-4-8A-USB-Type-C-to-Type-A-Cable-and-Wall-Charger-
+Kit/384519132
+[+] Electronics Faraday / BlackOut Bags
+[-] Faraday Defense
+* https://Shop.FaradayDefense.com/product/nx3-3pc-triple-layer-fabric-faraday-bag-kit/
+[*] Toilettries / Hygiene Kit
+[+] Oral Care
+[-] Travel Size Tooth Pastes
+[-] Travel Size Plackers
+[-] Travel Size DenTek Oral Care Kit
+[-] Manual Toothbrush
+[+] Grooming Tools
+[-] Precision Tweezers
+[-] Blackhead Removal Tool
+[-] Single 3 Blade Shaving Razor
+[+] Soap
+[-] Dial Gold Bar, Anti-Microbial / Anti-Bacterial Soap - Benzalkonium Chloride - Triclosan
+[-] Travel Size Anti-Microbial Wipees
+[-] Travel Size Bleach
+[-] Travel Size Lotion
+[-] Travel Size Vaseline
+[+] Scrubbing Tools
+[-] Pumice Stone / River Rock
+[+] EarCare
+[-] Travel Size Q-Tips
+[+] HairCare
+[-] Hair Pomade
+[-] Travel Size Hair Combe / Travel Size Hair Brush
+[+] Hygiene Tool Containers & Pouches
+[-] Soap Container
+[-] Toothbrush Container
+[*] First Aid Kit
+[+] SuperGlue
+[+] Gauze
+[+] Travel Size Rubbing Alcohol
+[+] Travel Size Hydrogen Peroxide
+[+] Travel Size Cut / Gash Wax
+[*] Financial Institutions & Credit / Debit Cards
+[+] American Express
+[-] American Express Blue Bird
+* https://www.BlueBird.com/
+[-] RIA2World
+* https://www.RIAMoneyTransfer.com
+[-] American Express Serve
+* https://www.Serve.com/
+[+] MasterCard
+[-] MasterCard Brinks Armored
+* https://www.cardrates.com/review/brinks-money-prepaid-mastercard/
+* https://www.Travelex.com/travel-money-card
+[+] Non-Backed
+[-] Travelex
+* https://www.Travelex.com/travel-money-card
+[+] VISA
+[-] VISA CashApp
+* https://www.Cash.app/
+[-] VISA Crypto Metal Card
+* https://www.Crypto.org
+[-] VISA BlueBird
+* https://www.BlueBird.com/
+[*] Waterproof Plastic Pouches For Kits
+[+] Large Plastic Pouch For Plastic Pouch Kits
+[+] Hygiene Kit Plastic Pouch
+[+] First Aid Kit Plastic Pouch
+[+] Electronics Kit Plastic Pouch
+[+] Identification Documents / Wallet Plastic Pouch
+[+] Journals & Writing Utensils Plastic Pouch
+[*] Identification Documents
+[+] Nation Based Identification Documents
+[-] Passport Book(s)
+[-] Passport Card(s)
+[-] State Issued ID(s) / License(s)
+[-] Social Security Card(s)
+[-] Birth Certificate(s)
+[-] College / University ID(s)
