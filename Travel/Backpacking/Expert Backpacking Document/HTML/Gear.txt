@@ -1,3 +1,5 @@
+Total Carry Weight: 40 Pounds OR 18 Kilograms
+
 [+] Clothing / Jewelry / Sandals - Shoes - Boots / Accessories / Backpacks / Electronics
 [*] HeadWear
 [+] Hats
@@ -59,6 +61,10 @@ Steel-Buckle-for-Watches-Fitness-Devices-Black-Gray-24mm/261901332
 [+] Performance Jackets
 [-] UnderArmour Rain Jacket
 * https://www.UnderArmour.com/en-us/
+[*] Portable Blankets
+[+] Handmade In Mexico Mexican Hooded Blanket
+[-] Westpath Made In Mexico Hooded Mexican Blanket
+* https://westpath.com/collections/blankets-because-lifes-better-when-youre-cozy
 [*] Ponchos
 [+] Handmade In Mexico Poncho
 [-] Handmade Hooded Poncho Serape
@@ -178,7 +184,12 @@ Survival/dp/B004XN8UHA
 [+] Wallets
 [-] TrayVax Armored Summit Wallet
 * https://www.TrayVax.com/collections/wallets-metal/products/armored-summit
-[*] Fire
+[*] Fire, Butane Torch Cylinder
+[-] Koltec Butane Torch With 6 Inch Flame
+* https://www.amazon.com/KOLTEC-Windproof-Refillable-Adjustable-Included/dp/B0C2J9RTNQ/ref=sr_1_24?crid=3HCJR4ES60ZME
+[-] Made-In-USA Eagle Torch Butane Torch Cylinder Lighter
+* https://www.amazon.com/Lighter-Butane-Refillabe-WindProof-12-Count/dp/B0B8C46NTG
+[*] Fire, Lighter
 [-] Zippo Lighter
 * https://www.Zippo.com/products/classic-matte-black
 [-] Zippo Flints
@@ -197,9 +208,11 @@ Storage/519270004
 [*] Thermus / Flask
 [-] Stanley Flask
 * https://www.Stanley1913.com/products/classic-easy-fill-wide-mouth-flask-8-oz
+[-] Thermos
+* https://www.amazon.com/Thermos-Stainless-Ounce-Beverage-Bottle/dp/B01DZQT3IU
 [*] Electronics
 [+] Laptops / NoteBooks
-[-] Lenovo T440p With CoreBoot & Gentoo Linux / Arch Linux
+[-] Lenovo T440p With NVidia GPU, CoreBoot & Arch Linux / Manjaro Linux
 * https://www.eBay.com/itm/Lenovo-ThinkPad-14-T440p-Core-i5-Laptop-Windows-10-PRO-
 8GB-RAM-500GB-
 HD/274743677636?epid=17030823529&hash=item3ff7ffd2c4:g:sMUAAOSwmkRgZ0NJ
@@ -221,8 +234,8 @@ _-20-173-361-_-Product
 * https://www.eBay.com/itm/Wireless-Bluetooth-Mobile-Controller-Gamepad-for-IOS-Android-
 Tablet-Smart-Phone/303456832551?hash=item46a76fcc27:g:SwEAAOSwey5gNL-Q
 [+] Laser Keyboard Modules
-[-] AGS Laser Keyboard
-*
+[-] AGS Laser Projection Keyboard
+* https://www.amazon.com/AGS-Wireless-Projection-Bluetooth-Smartphone/dp/B00MR26TUO
 [+] Internationally Unlocked Mobile Phones / Satellite Phones
 [-] Iridium Satellite Phone
 * https://www.eBay.com/itm/133729024820?hash=item1f22defb34:g:gawAAOSwtyVgeE2F
@@ -251,7 +264,7 @@ Version 3, Non-Reversible Titanium Screws
 [+] International Mobile Phone Service Plans
 [-] Google-Fi
 * https://Fi.Google.com/about/
-[+] U.S. Based Mobile Phone Service Plans
+[+] Prepaid U.S. Based Mobile Phone Service Plans
 [-] AT&T
 * https://www.ATT.com/prepaid/
 [-] T-Mobile
@@ -265,11 +278,11 @@ Version 3, Non-Reversible Titanium Screws
 * https://www.NordVPN.com
 [+] Portable Power Banks
 [-] 20,000 Milliampere Hour / Solar Panel Chargeable Power Banks
-* https://www.Walmart.com/ip/onn-Dual-Port-Portable-Battery-6x-Charge-20000-mAh-
-Black/581872119
+* https://US.Anker.com/products/a1650
 * https://www.lenovo.com/us/en/p/accessories-and-software/chargers-and-batteries/power-banks/40allg2www
 * https://www.samsung.com/us/mobile/mobile-accessories/phones/20a-battery-pack-dark-gray-eb-p5300xjegus/
-* https://US.Anker.com/products/a1650
+* https://www.Walmart.com/ip/onn-Dual-Port-Portable-Battery-6x-Charge-20000-mAh-
+Black/581872119
 [+] EarBuds
 [-] SkullCandy INK'D 2
 * https://www.SkullCandy.com/shop/earbuds/inkd-2
